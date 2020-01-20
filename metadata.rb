@@ -1,4 +1,4 @@
-name 'katoolin'
+name 'kalitools'
 maintainer 'Samy Younsi (Shino Corp)'
 maintainer_email 'samyyounsi@hotmail.fr'
 license 'Apache-2.0'
